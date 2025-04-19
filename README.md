@@ -1,2 +1,2 @@
-# DSA-in-C-
+# DSA-in-C++
 Problem solutions 
